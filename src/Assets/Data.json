@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/RT3DPN9/287431521-b4b092c8-5f5b-441e-9d49-ab32db380329.png",
+        "heading": "Evi-D",
+        "link": "https://github.com/evi-D/install",
+        "github": "https://github.com/evi-D/install",
+        "tech_Stack": [
+            "javascript",
+            "expressjs",
+            "nodejs"
+        ]
+    },
+    {
+        "id": 2,
+        "img": "https://user-images.githubusercontent.com/65026164/164964523-42d8ddf8-e1c8-4ee0-b5a0-87f0ed9f233c.png",
+        "heading": "LocalMiner",
+        "link": "https://github.com/LocalMiner/Installer",
+        "github": "https://github.com/LocalMiner/Installer",
+        "tech_Stack": [
+            "javascript",
+            "expressjs",
+            "nodejs"
+        ]
+    }
+]
